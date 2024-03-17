@@ -1,0 +1,14 @@
+Seccion: 1
+Num. Vendedor: 1
+Nombre: juan
+Ultimo mes de proceso: 5
+Comision: 300.00
+Observaciones:-
+
+Seccion: 1
+Num. Vendedor: 2
+Nombre: carla
+Ultimo mes de proceso: 5
+Comision: 200.00
+Observaciones:-
+
